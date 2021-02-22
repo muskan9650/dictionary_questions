@@ -1,0 +1,6 @@
+Write a Python program to multiply all the items in a dictionary.
+dict1={a:20, b:30, c:40}
+mult=1
+for x in dict1:
+    mult=mult*dict1[x]
+print[mult]
